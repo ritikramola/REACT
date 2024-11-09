@@ -1,1 +1,20 @@
-{"image":"mcr.microsoft.com/devcontainers/universal:2"}
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/r3dpoint/devcontainer-features/tailwindcss-standalone-cli:1": {},
+		"ghcr.io/devcontainers-extra/features/node-asdf:0": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"rodrigovallades.es7-react-js-snippets",
+				"dsznajder.es7-react-js-snippets",
+				"esbenp.prettier-vscode",
+				"ritwickdey.LiveServer",
+				"ecmel.vscode-html-css",
+				"vscode-icons-team.vscode-icons",
+				"bradlc.vscode-tailwindcss"
+			]
+		}
+	}
+}
