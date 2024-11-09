@@ -14,7 +14,8 @@
 				"ecmel.vscode-html-css",
 				"vscode-icons-team.vscode-icons",
 				"bradlc.vscode-tailwindcss",
-				"aaron-bond.better-comments"
+				"aaron-bond.better-comments",
+				"rvest.vs-code-prettier-eslint"
 			]
 		}
 	}
