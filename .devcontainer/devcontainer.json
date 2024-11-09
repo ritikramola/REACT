@@ -13,7 +13,8 @@
 				"ritwickdey.LiveServer",
 				"ecmel.vscode-html-css",
 				"vscode-icons-team.vscode-icons",
-				"bradlc.vscode-tailwindcss"
+				"bradlc.vscode-tailwindcss",
+				"aaron-bond.better-comments"
 			]
 		}
 	}
