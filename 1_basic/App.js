@@ -30,7 +30,6 @@
 
 
 // const root = ReactDOM.createRoot(document.getElementById("root"));
-
 // root.render(parent); 
 
                                             //NOW TO CREATE SIBLINGS
@@ -79,6 +78,8 @@ const parent = React.createElement("div",{id: "parent"},
                 React.createElement("h2",{},"I'm h2 tag")
             ]),
 ]);
+console.log(parent); //object
+
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(parent); 
